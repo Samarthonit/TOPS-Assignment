@@ -1,0 +1,2 @@
+The continue statement in Python skips the current 
+step in a loop and moves to next loop.

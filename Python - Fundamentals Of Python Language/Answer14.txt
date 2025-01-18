@@ -1,0 +1,21 @@
+There are 2 Types of Indexes
+Positive Indexes and Negative Indexes
+
+So I Make a list of 1 to 5 Number
+Number = [1, 2, 3, 4, 5]
+
+if i want to see Number from Beginning in list so i will write 
+Number[0] is 1
+Number[1] is 2
+Number[2] is 3
+Number[3] is 4
+Number[4] is 5
+This is called Positive Indexes and Negative is Opposite of Positive Indexes
+Means, if i want to see Number from Last in list i will write
+Number[-1] is 5
+Number[-2] is 4
+Number[-3] is 3
+Number[-4] is 2
+Number[-5] is 1
+
+Negative Indexes are useful when you want the last number from list without know the length of sequences.

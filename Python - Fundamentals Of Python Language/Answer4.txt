@@ -1,0 +1,4 @@
+Python manages memory automatically using reference counting, 
+garbage collection, and memory pools.
+
+# Help From Google
